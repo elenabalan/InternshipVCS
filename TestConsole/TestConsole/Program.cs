@@ -19,5 +19,9 @@ namespace TestConsole
         {
 
         }
+        public void Procedure3()
+        {
+            Console.WriteLine("Write anything");
+        }
     }
 }
