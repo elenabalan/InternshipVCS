@@ -14,5 +14,10 @@ namespace TestConsole
             Console.WriteLine("sto nibudi");
             Console.WriteLine("Eshe cito nibudi");
         }
+
+        public void Procedure()
+        {
+
+        }
     }
 }
