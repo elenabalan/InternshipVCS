@@ -12,6 +12,7 @@ namespace TestConsole
         {
             Console.WriteLine("Hello world!");
             Console.WriteLine("sto nibudi");
+            Console.WriteLine("Eshe cito nibudi");
         }
     }
 }
