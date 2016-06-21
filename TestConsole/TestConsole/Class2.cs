@@ -8,5 +8,13 @@ namespace TestConsole
 {
     class Class2
     {
+        int i;
+        int j;
+        public Class2()
+        {
+            i = 10;
+            j = 20;
+
+        }
     }
 }
