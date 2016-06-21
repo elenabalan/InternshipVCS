@@ -13,11 +13,16 @@ namespace TestConsole
             Console.WriteLine("Hello world!");
             Console.WriteLine("sto nibudi");
             Console.WriteLine("Eshe cito nibudi");
+            int i = 5;
         }
 
         public void Procedure()
         {
 
+        }
+        public void Preocedure2()
+        {
+            Console.WriteLine(i);
         }
     }
 }
