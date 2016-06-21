@@ -9,9 +9,12 @@ namespace TestConsole
     class Class1
     {
         int i;
+        int j;
+
         public Class1()
         {
             i = 10;
+            j = 20;
         }
             
             
