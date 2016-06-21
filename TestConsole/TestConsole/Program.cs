@@ -19,7 +19,7 @@ namespace TestConsole
         {
 
         }
-        public void Procedure3()
+        public void Procedure2()
         {
             Console.WriteLine("Write anything");
         }
